@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm a Frontend Developer, 2022 new grad.
+Hi there, I'm a Frontend Developer.
 
 ### 🔭Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
